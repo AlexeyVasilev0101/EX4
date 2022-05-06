@@ -1,0 +1,10 @@
+﻿  ConsoleApplication6.cpp
+D:\Новая папка\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Header.cpp
+D:\Новая папка\ConsoleApplication6\ConsoleApplication6\Header.cpp(5,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Новая папка\ConsoleApplication6\ConsoleApplication6\Header.cpp(10,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Новая папка\ConsoleApplication6\ConsoleApplication6\Header.cpp(15,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Новая папка\ConsoleApplication6\ConsoleApplication6\Header.cpp(21,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Новая папка\ConsoleApplication6\ConsoleApplication6\Header.cpp(27,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  ConsoleApplication6.vcxproj -> D:\Новая папка\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe
